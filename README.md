@@ -1,4 +1,4 @@
-# SurveyPro
+# Advance Software Engineering Project: SurveyPro
 
 # Excercise A
 This repository contains a web based survey application written in .Net Core, C# and JavaScript. Main features includes survey creation, survey publishing, data entry, data export, reporting and some analytics.
