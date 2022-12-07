@@ -14,6 +14,7 @@ GitHub is used to manage source code of this application.
 ### 4 Metrics
 
 ### 5 Clean Code Development
+[Here](https://github.com/zainulabidin1/BHT_FS22_SurveyPro/blob/main/Documentation/CCD%20Cheat%20Sheet.pdf) is my clean code development cheat sheet based on software industry best preactices. This cheat sheet can work any programming language and framework.
 
 ### 6 Build
 
