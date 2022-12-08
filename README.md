@@ -25,7 +25,7 @@ Use Case 2: [Survey Management](https://github.com/zainulabidin1/BHT_FS22_Survey
 ### 8 Continuous Delivery
 
 ### 9 IDE
-I am using Visual Studio as IDE. The reason I choose this IDE is because its the best IDE for .Net development. Visual Studio has some very powerfull features like step by step code debugging, break point ability, AI to learn the programmer code and then make it easy to complete lines of code automatically, version control, collabarative development and much more. 
+I am using Visual Studio as IDE. The reason I choose this IDE is because its the best IDE for .Net development. Visual Studio has some very powerfull features like step by step code debugging, break point ability, AI to learn the programmer code and then make it easy to automatically complete lines of code, version control, collabarative development and much more. 
 
 **Favorite Key-Shortcuts:**
 
