@@ -8,6 +8,8 @@ This repository contains a web based survey application written in .Net Core, C#
 GitHub is used to manage source code of this application.
 
 ### 2 UML
+Use Case 1: [Login & Register](https://github.com/zainulabidin1/BHT_FS22_SurveyPro/blob/main/Documentation/uml_use_case_login_register.png)<br>
+Use Case 2: [Survey Management](https://github.com/zainulabidin1/BHT_FS22_SurveyPro/blob/main/Documentation/uml_use_case_survey_management.png)
 
 ### 3 DDD
 
